@@ -1,0 +1,13 @@
+C:\Users\New\Desktop\visual\C#\gamedev-cw-1\cw_1_2\cw_1_2\bin\Debug\netcoreapp3.1\cw_1_2.exe
+C:\Users\New\Desktop\visual\C#\gamedev-cw-1\cw_1_2\cw_1_2\bin\Debug\netcoreapp3.1\cw_1_2.deps.json
+C:\Users\New\Desktop\visual\C#\gamedev-cw-1\cw_1_2\cw_1_2\bin\Debug\netcoreapp3.1\cw_1_2.runtimeconfig.json
+C:\Users\New\Desktop\visual\C#\gamedev-cw-1\cw_1_2\cw_1_2\bin\Debug\netcoreapp3.1\cw_1_2.runtimeconfig.dev.json
+C:\Users\New\Desktop\visual\C#\gamedev-cw-1\cw_1_2\cw_1_2\bin\Debug\netcoreapp3.1\cw_1_2.dll
+C:\Users\New\Desktop\visual\C#\gamedev-cw-1\cw_1_2\cw_1_2\bin\Debug\netcoreapp3.1\cw_1_2.pdb
+C:\Users\New\Desktop\visual\C#\gamedev-cw-1\cw_1_2\cw_1_2\obj\Debug\netcoreapp3.1\cw_1_2.csprojAssemblyReference.cache
+C:\Users\New\Desktop\visual\C#\gamedev-cw-1\cw_1_2\cw_1_2\obj\Debug\netcoreapp3.1\cw_1_2.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\visual\C#\gamedev-cw-1\cw_1_2\cw_1_2\obj\Debug\netcoreapp3.1\cw_1_2.AssemblyInfo.cs
+C:\Users\New\Desktop\visual\C#\gamedev-cw-1\cw_1_2\cw_1_2\obj\Debug\netcoreapp3.1\cw_1_2.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\visual\C#\gamedev-cw-1\cw_1_2\cw_1_2\obj\Debug\netcoreapp3.1\cw_1_2.dll
+C:\Users\New\Desktop\visual\C#\gamedev-cw-1\cw_1_2\cw_1_2\obj\Debug\netcoreapp3.1\cw_1_2.pdb
+C:\Users\New\Desktop\visual\C#\gamedev-cw-1\cw_1_2\cw_1_2\obj\Debug\netcoreapp3.1\cw_1_2.genruntimeconfig.cache

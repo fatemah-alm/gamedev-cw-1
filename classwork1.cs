@@ -22,6 +22,8 @@ namespace cw1
             int ageDifference = heroAge - age;
             Console.WriteLine("{0} is {1} years old and his height is {2}, his superpowers are {3} and {4}", HeroName, heroAge, Heroheight, herosuperpower1, herosuperpower2);
             Console.WriteLine("the age difference between {0} and {1} is {2}", HeroName, Charachtername, ageDifference);
+           
+
 
         }
     }
